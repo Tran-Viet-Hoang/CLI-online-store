@@ -53,7 +53,38 @@ master_dictionary = {
             22 hours of video playback with a single charge
             For more info, checkout the product's official website:https://www.apple.com/vn/iphone-13-pro/specs""",
         "reviews": {"likes": 0, "dislikes": 0}
-    }
+    },
+    "Nvidia RTX 3090": {
+        "id": "1003",
+        "price": 69999000,
+        "total_quantity": 10,
+        "weight": "2100 grams",
+        "sizes": "12.1 inches",
+        "tech specs": """
+           NVIDIA CUDA Cores 10496	
+           Boost Clock 1.70 GHZ
+           Memory Size 24 GB
+           Memory Type GDDR6X
+           For more info, checkout the product's official website:https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090/""",
+        "reviews": {"likes": 0, "dislikes": 0}
+    },
+    "Nike Dior Jordan 1": {
+        "id": "1004",
+        "price": 534028000,
+        "total_quantity": 2,
+        "colors": {
+            "white": 2},
+        "weight": "420 grams",
+        "sizes": "11",
+        "specs": """
+            Release July 2020
+            Only 8500 pairs were made
+            Release price was $2200
+            Could be up to $20k
+            For more info, checkout the product's official website:https://www.highsnobiety.com/p/dior-nike-air-jordan-1/#:~:text=Air%20Jordan%201%20Dior%20release,ups%20and%20pop-in%20stores.""",
+        "reviews": {"likes": 0, "dislikes": 0}
+    },
+
 }
 shopping_cart = {"items": [], "total_price": 0}
 
